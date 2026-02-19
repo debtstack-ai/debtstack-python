@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "properties": {
+    "DEBTSTACK_API_KEY": {
+      "type": "string",
+      "description": "Your DebtStack.ai API key. Get one at https://debtstack.ai"
+    }
+  },
+  "required": ["DEBTSTACK_API_KEY"]
+}

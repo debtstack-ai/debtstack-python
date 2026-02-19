@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.marcellusgreen/debtstack-ai",
+  "title": "DebtStack.ai",
+  "description": "Corporate credit data API for AI agents — bonds, leverage, guarantors, SEC filings",
+  "version": "0.1.3",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "identifier": "debtstack-ai",
+      "version": "0.1.3",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
