@@ -52,6 +52,10 @@ For LangChain integration:
 pip install debtstack-ai[langchain]
 ```
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/debtstack-ai-debtstack-python).
+
 ## Quick Start
 
 ```python
